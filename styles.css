@@ -1,0 +1,55 @@
+ 
+body{
+    background-image: url("https://images4.alphacoders.com/119/thumb-1920-1191786.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0%;
+
+}
+ 
+.form-control-one {
+    margin-left: 30px;
+    width: 500px;
+}
+.text{
+    margin-left: 200px;
+}
+
+
+
+table {
+    
+    background-image: url("https://images4.alphacoders.com/119/thumb-1920-1191786.jpg");
+    background-repeat: no-repeat;
+
+    margin: 300px;
+    height: 170px;
+    width: 500px;
+    margin-top: 60px;
+}
+
+th, td {
+    text-align: center;
+    color:aliceblue;
+} 
+
+
+ @media (max-width: 600px) {
+
+.text-center{
+    margin-right: 60px;
+}
+.form-control-one{
+    width: 100px;
+}
+.text{
+    margin-left: 60px;
+}
+table{
+    margin: 10px;
+}
+.form-control-two{
+    margin: 60px;
+    margin-top: 50px;
+}
+} 
